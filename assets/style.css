@@ -1,0 +1,19 @@
+body {
+    background-color: #e5e5e5;
+    margin: 0;
+    padding: 0;
+}
+.container {
+    background-color: white;
+    margin: 0;
+}
+.header {
+  background-image: url(./images/desktop/desktopHeader.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position-x: 70px;
+  padding: 288px 260px 255px 260px;
+  border-bottom-left-radius: 24px;
+  background-color: white;
+}
+
