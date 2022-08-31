@@ -1,11 +1,14 @@
 body {
     background-color: #e5e5e5;
-    margin: 0;
-    padding: 0;
 }
-.container {
+
+.c-nav {
+  background-color: white;
+  position: fixed;
+}
+
+.container-md {
     background-color: white;
-    margin: 0;
 }
 .header {
   background-image: url(./images/desktop/desktopHeader.png);
@@ -17,3 +20,14 @@ body {
   background-color: white;
 }
 
+section .portfolio {
+  justify-content: center;
+}
+
+.work-cards {
+  justify-content: center;
+}
+
+.lang-list {
+ background-color: #ebebff;
+}
